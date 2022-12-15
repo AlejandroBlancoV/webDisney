@@ -1,0 +1,18 @@
+body {
+    background-image: url("Fotos/disney.jfif");
+    color: green;
+    text-align: center;
+}
+
+.cabecera {
+
+    text-decoration: underline;
+}
+
+.cuerpo {
+    color: violet;
+}
+
+.final {
+    color: darkturquoise;
+}
