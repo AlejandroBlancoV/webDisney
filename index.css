@@ -1,5 +1,6 @@
 body {
     background-image: url("Fotos/disney.jfif");
+    background-position: center;
     color: green;
     text-align: center;
 }
